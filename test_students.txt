@@ -1,0 +1,29 @@
+Test Case 1:
+Number of Students: 2
+
+Student 1:
+Name: John Smith
+Math: 85
+Science: 92
+English: 88
+
+Student 2:
+Name: Sarah Johnson
+Math: 78
+Science: 81
+English: 85
+
+Expected Result:
+Both students should receive Grade B
+
+--------------------------------
+
+Test Case 2:
+Number of Students: 1
+
+Student 1:
+Name: Test User
+Math: 105
+
+Expected Result:
+Program should reject invalid marks and ask again
